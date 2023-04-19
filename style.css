@@ -1,0 +1,148 @@
+#mynavbar {  
+  background-color: red;
+  border-radius: 5px;
+}
+
+#mynavbar li a {  
+  color: whitesmoke; 
+}
+
+#mynavbar li a:hover {
+  background-color: whitesmoke;   
+  color: red;        
+}
+
+#hero {
+  background: url("images/carTow.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+  text-align: center;
+}
+
+.carousel, .carousel img  {
+    height: 500px;
+    margin: auto;
+}
+
+#aboutH1 {
+  text-align: center;
+  font-size: 100px;
+}
+
+#servicesH1 {
+  text-align: center;
+  font-size: 100px;
+}
+
+#team {
+  background-color: lightgray;
+  text-align: center;
+}
+
+#teamH1 {
+  font-size: 100px;
+}
+
+#teamText {
+  font-size: 30px;
+}
+
+section {
+  background-color: red;
+  color: white;
+}
+
+#carTow {
+  background: url("images/brokenCar.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  min-height: 400px;
+}
+
+#carTowText {
+  max-width: 50%;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+#boatTowText {
+  max-width: 50%;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+#boatTow {
+  background: url("images/boatTow.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  min-height: 400px;
+}
+
+#cargoTowText {
+  max-width: 50%;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+#cargoTow {
+  background: url("images/cargoTow.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  min-height: 400px;
+}
+
+iframe {
+  align: right;
+}
+
+#contact {
+  text-align: center;
+  font-size: 20px;
+}
+
+#contactH1 {
+  font-size: 100px;
+  background-color: grey;
+}
+
+#contactH {
+  background: url("images/truck.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  min-height: 700px;
+}
+
+header {
+  text-align: center;
+  background-color: grey;
+  color: sandybrown;
+}
+
+#barri {
+  border-radius: 50%;
+  align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background: url("images/desk.jpg");
+}
+
+body {
+  background-color: lightgray;
+}
+
+#aboutText {
+  padding: 70px;
+  text-align: center;
+  font-size: 30px;
+}
+
+footer {
+  text-align: center;
+  background-color: grey;
+  color: sandybrown;
+}
